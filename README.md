@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhamad-Nabil Rafiu
+# 👋 Hello, I'm Nabil Rafiu
 
 🎯 **Network, Telecom & Systems Manager** at 3R Technologie  
 🔐 Specialist in IT Infrastructure, Cybersecurity & Digital Transformation  

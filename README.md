@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhamad-Nabil Rafiu
 
-<!--
-**NabilRafiu/NabilRafiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Network, Telecom & Systems Manager** at 3R Technologie  
+🔐 Specialist in IT Infrastructure, Cybersecurity & Digital Transformation  
+📍 Based in Abidjan, Côte d'Ivoire  
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhamad-nabil-rafiu-b881131a0)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate engineer with strong experience in:
+- 🖧 Network & Systems Architecture (LAN/WAN/Datacenter)
+- 🔐 Cybersecurity & Ethical Hacking
+- 🛠️ Infrastructure deployment & maintenance
+- 📊 IT Governance and Digital Transformation
+- 📚 Technical training and mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Let’s Collaborate!
+I’m open to collaboration on infrastructure design, automation scripts, or IT governance projects.  
+Feel free to reach out!
